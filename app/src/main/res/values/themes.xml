@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ThreadsApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ThreadsApp" parent="Base.Theme.ThreadsApp" />
+    <style name="background">
+        <item name="backgroundColor" type="color">#ffffff</item>
+    </style>
+</resources>
